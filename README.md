@@ -1,4 +1,4 @@
-# Predicting Psychological Mental Health Disorders Using EEG Signals
+# Predicting Psychological Mental Health Disorders From EEG Signals
 
 This repository contains the implementation of our project, which leverages EEG data and machine learning techniques (Random Forests and Neural Networks) to predict psychological mental health disorders. The project aims to explore the potential of EEG signals in diagnosing and classifying various mental health conditions.
 
