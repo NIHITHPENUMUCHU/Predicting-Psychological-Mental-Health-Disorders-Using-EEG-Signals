@@ -55,7 +55,7 @@ The source of the dataset is available [here](https://osf.io/8bsvr/).
 ## Installation
 To run this project, ensure you have the following installed:
 - Python 3.8+
-- Libraries: NumPy, Pandas, Matplotlib, Scikit-learn, TensorFlow/Keras (or PyTorch)
+- Libraries: NumPy, Pandas, Matplotlib, Seaborn
 
 ## Results
 The following are the key results from our models:
