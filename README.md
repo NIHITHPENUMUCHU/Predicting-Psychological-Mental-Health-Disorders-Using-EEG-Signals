@@ -183,7 +183,6 @@ weighted avg       0.91      0.90      0.86       189
 
 ## Contributors
 - Penumuchu Nihith
-- Shaik Mohammed Shoaib
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
